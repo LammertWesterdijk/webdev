@@ -5,14 +5,12 @@ body {
 }
 
 img {
-    width: 30%;
     margin-left: auto;
     margin-right: auto;
     display: block;
 }
 
 figcaption {
-    width: 30%;
     margin-left: auto;
     margin-right: auto;
     display: block;
